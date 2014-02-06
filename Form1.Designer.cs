@@ -199,8 +199,8 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dataGridView1);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(586, 390);
-            this.MinimumSize = new System.Drawing.Size(586, 390);
+            this.MaximumSize = new System.Drawing.Size(680, 390);
+            this.MinimumSize = new System.Drawing.Size(680, 390);
             this.Name = "Form1";
             this.Text = "Dining Philosopher\'s Simulation";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
